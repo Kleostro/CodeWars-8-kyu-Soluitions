@@ -1,5 +1,5 @@
 /*
-Even or Odd
+Remove First and Last Character
 
 ESCRIPTION:
 
