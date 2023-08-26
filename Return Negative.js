@@ -16,4 +16,4 @@ ESCRIPTION:
 
 SOLUTION: 
 */
-const makeNegative = (num) => num - (num * 2);
+const makeNegative = (num) => Math.abs(num) - (Math.abs(num) * 2);
