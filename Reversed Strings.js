@@ -1,5 +1,5 @@
 /*
-Even or Odd
+Reversed Strings
 
 ESCRIPTION:
 
