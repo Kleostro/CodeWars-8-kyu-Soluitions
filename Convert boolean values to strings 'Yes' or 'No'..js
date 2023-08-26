@@ -1,5 +1,5 @@
 /*
-Even or Odd
+Convert boolean values to strings 'Yes' or 'No'.
 
 ESCRIPTION:
 
