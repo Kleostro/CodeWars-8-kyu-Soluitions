@@ -1,5 +1,5 @@
 /*
-Even or Odd
+Opposite number
 
 ESCRIPTION:
 
