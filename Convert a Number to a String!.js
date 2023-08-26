@@ -1,5 +1,5 @@
 /*
-Even or Odd
+Convert a Number to a String!
 
 ESCRIPTION:
 
