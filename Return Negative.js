@@ -1,5 +1,5 @@
 /*
-Even or Odd
+Return Negative
 
 ESCRIPTION:
 
